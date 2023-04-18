@@ -1,5 +1,5 @@
 from flask import Flask,render_template,request
-import replicate,os
+import os
 
 app = Flask(__name__)
 
